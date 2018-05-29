@@ -1,22 +1,11 @@
-# Hackathon at ACM SIGCOMM 2018 - Proposed projects
+# Hackathon at ACM SIGCOMM 2018
+
+List of proposed Hackathon challenges 
 
 ### GNS3
 
-#### Network simulator/emulator in Cloud based on Containers
+<img src="https://www.gns3.com/assets/images/logo-colour.png" data-canonical-src="https://www.gns3.com/assets/images/logo-colour.png" width="60"  align="right" />
 
-In some point we are planning to develop GNS3 version fully in Cloud based on Containers where is possible to simulate large topologies, similar to the idea presented by Microsoft in CrystalNet:
-
-https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/p599-liu.pdf
-
-Project steps:
-* evaluate technical possibility to achieve it,
-* Minimal Value Product - running topology on different containers/machines which can be scaled up on demand
-* Performance testing how this network behaves.
-
-This prototype will become base for gns3-cloud and will be licensed on GPLv3. 
-
-**Required skills:**
-* Python
-* Docker/Containers
-* Network engineering
-* *Cloud experience
+1. [Network simulator/emulator in Cloud based on Containers](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/GNS3#network-simulatoremulator-in-cloud-based-on-containers)
+2. [GNS3 WebUI development](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/GNS3#webui-development)
+3. [Extending GNS3](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/GNS3#extending-gns3)
