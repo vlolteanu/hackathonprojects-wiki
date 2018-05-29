@@ -1,3 +1,5 @@
+<img src="https://www.gns3.com/assets/images/logo-colour.png" data-canonical-src="https://www.gns3.com/assets/images/logo-colour.png" width="60"  align="left" />
+
 # GNS3 Challenges
 
 ## Network simulator/emulator in Cloud based on Containers
