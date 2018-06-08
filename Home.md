@@ -12,8 +12,8 @@ List of proposed Hackathon challenges
 
 ### Nokia
 
-1. On demand wireless service placement
-2. Extandable object recognition system
-3. Information spread in social network
-4. Container and Virtal Machine ecosystem
-
+1. [On demand wireless service placement](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/Nokia#on-demand-wireless-service-placement)
+2. [Extandable object recognition system](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/Nokia#extandable-object-recognition-system)
+3. [Information spread in social network](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/Nokia#information-spread-in-social-network)
+4. [Container and Virtal Machine ecosystem](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/Nokia#container-and-virtal-machine-ecosystem)
+5. [Crowd mobility](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/Nokia#crowd-mobility)
