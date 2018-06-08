@@ -25,7 +25,7 @@ Python
 Tensorflow 
 ## Information spread in social network
 ### Description
-
+A Tweet is going to spread in the follower network in time having several re-tweeting on the same message while it reaches maximum number of followers. Some echo may help to reach more followers, some may not, so the main impacted population is changing based on the source tweet. To understand better the information spread, a type of tweet should be analyzed and understand main impacted population and maximum tweet activity in a time interval.  
 ### Challenge
 The quantification of the impact of  a Tweet, e.g., reach (re-tweets/time window, number of recipients)
 ### Given asset
@@ -35,3 +35,14 @@ Internet connection
 javascript
 web api
 analytics
+## Container and Virtal Machine ecosystem
+### Description
+Computation intensive mobile applications require server side support. Application servers are deployed over clouds. For proper user experience (e.g. low latency, short reaction time in multi user gaming) servers must be located in the proximity of the users. In case of  mobile users, their locations are not fixed, sesssion can be originated over the whole service area, thus the server placement has to follow the demand in an ad hoc manner without much latency and by maintaining service continuity. Additional challenge is imposed by the handovers in case of users who are travelling or moving around. In case of multi-user applications, the number of users can increase/decrease dynamically thus servers resources should follow. 
+### Challenge
+* provide an alogrithm for optimal server location for given topology (network, cloud) with random user location considering the possible suboptimal location in case of handovers. The location of the server should be closest possible to the users
+* provide a dynamic scaling method of the containers hosting the servers.  
+### Given asset
+computers, topology, information, docker, topology model, SimCity
+### Required competence
+Linux
+Docker
