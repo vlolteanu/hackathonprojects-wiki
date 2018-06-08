@@ -46,3 +46,13 @@ computers, topology, information, docker, topology model, SimCity
 ### Required competence
 Linux
 Docker
+## 
+### Description
+Smart public transport will have an important role in future smart cities. Identifying travel routes, the way of transports used by travelers is crucial to support route planning and public transport optimization use cases. Collecting crowd travel data (data collected by individual commuters with their mobile devices) and analyzing them provides a chance to determine the travelling behaviors of the masses. Nokia has developed an Android client that collects travel related information from friendly users’ mobile devices (e.g. location related KPIs, motion sensor data) that is uploaded and stored in a backend server. These device logs together with the Budapest public transport information (available through open APIs) will be used for the challenge.
+### Challenge
+* Find out the way of transport (which bus/tram lines used…) from the travelers’ logs. Map the offline, user collected mobile device sensor logs with BKK travel information gathered from BKK API. Create an analytical model for transport type prediction.
+* Find out bus/tram stops from the travelers’ logs. Create an analytical model for predicting bus/tram stop locations.
+### Given asset
+wifi internet connection, offline data set for motion sensor logs, description of the Budapest public transport APIs
+### Required competence
+web API usage, data mining, analytics skills, “R” or python programming skills
