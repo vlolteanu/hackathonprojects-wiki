@@ -46,7 +46,7 @@ computers, topology, information, docker, topology model, SimCity
 ### Required competence
 Linux
 Docker
-## 
+## Crowd mobility
 ### Description
 Smart public transport will have an important role in future smart cities. Identifying travel routes, the way of transports used by travelers is crucial to support route planning and public transport optimization use cases. Collecting crowd travel data (data collected by individual commuters with their mobile devices) and analyzing them provides a chance to determine the travelling behaviors of the masses. Nokia has developed an Android client that collects travel related information from friendly users’ mobile devices (e.g. location related KPIs, motion sensor data) that is uploaded and stored in a backend server. These device logs together with the Budapest public transport information (available through open APIs) will be used for the challenge.
 ### Challenge
