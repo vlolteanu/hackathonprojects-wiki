@@ -24,3 +24,4 @@ List of proposed Hackathon challenges
 
 <img src="https://conferences.sigcomm.org/sigcomm/2018/images/hackathon_cfp_figures/mobileinsight.png" data-canonical-src="https://conferences.sigcomm.org/sigcomm/2018/images/hackathon_cfp_figures/mobileinsight.png" width="60"  align="right" />
 
+[Three projects (easy, medium, hard) on understading latency over LTE.](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MobileInsight)
