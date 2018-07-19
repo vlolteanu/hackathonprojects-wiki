@@ -10,6 +10,10 @@ List of proposed Hackathon challenges
 2. [GNS3 WebUI development](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/GNS3#webui-development)
 3. [Extending GNS3](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/GNS3#extending-gns3)
 
+
+***
+
+
 ### Nokia
 
 <img src="http://1000logos.net/wp-content/uploads/2017/03/Nokia-Logo.png" data-canonical-src="http://1000logos.net/wp-content/uploads/2017/03/Nokia-Logo.png" width="60"  align="right" />
@@ -20,11 +24,15 @@ List of proposed Hackathon challenges
 4. [Container and Virtal Machine ecosystem](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/Nokia#container-and-virtal-machine-ecosystem)
 5. [Crowd mobility](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/Nokia#crowd-mobility)
 
+***
+
 ### MobileInsight
 
 <img src="https://conferences.sigcomm.org/sigcomm/2018/images/hackathon_cfp_figures/mobileinsight.png" data-canonical-src="https://conferences.sigcomm.org/sigcomm/2018/images/hackathon_cfp_figures/mobileinsight.png" width="60"  align="right" />
 
 [Three projects (easy, medium, hard) on understading latency over LTE.](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MobileInsight)
+
+***
 
 ### M-Lab
 
