@@ -28,3 +28,5 @@ List of proposed Hackathon challenges
 
 ### M-Lab
 
+<img src="https://conferences.sigcomm.org/sigcomm/2018/images/hackathon_cfp_figures/mobileinsight.png" data-canonical-src="http://tma.ifip.org/2018/wp-content/uploads/sites/3/2018/01/Measurement-Lab-Logo-300x89.png" width="60"  align="right" />
+
