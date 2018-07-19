@@ -28,5 +28,13 @@ List of proposed Hackathon challenges
 
 ### M-Lab
 
-<img src="https://conferences.sigcomm.org/sigcomm/2018/images/hackathon_cfp_figures/mobileinsight.png" data-canonical-src="http://tma.ifip.org/2018/wp-content/uploads/sites/3/2018/01/Measurement-Lab-Logo-300x89.png" width="60"  align="right" />
+<img src="http://tma.ifip.org/2018/wp-content/uploads/sites/3/2018/01/Measurement-Lab-Logo-300x89.png" data-canonical-src="http://tma.ifip.org/2018/wp-content/uploads/sites/3/2018/01/Measurement-Lab-Logo-300x89.png" width="60"  align="right" />
 
+1. [Project 1 (easy): ASN Annotation](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-1-easy-asn-annotation)
+2. [Project 2 (medium/advanced): SignalSearcher](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-2-mediumadvanced-signalsearcher)
+3. [Project 3 (advanced): Paris Traceroute Data Analysis](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-3-advanced-paris-traceroute-data-analysis)
+4. [Project 4 (medium) -- NDTjs Mock Testing Environment](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-4-medium----ndtjs-mock-testing-environment)
+5. [Project 5 (medium) -- Extend the M-Lab Viz Platform
+](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-5-medium----extend-the-m-lab-viz-platform)
+6. [Project 6 (easy) -- Browser Extension
+](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-6-easy----browser-extension)
