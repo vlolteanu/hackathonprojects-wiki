@@ -48,6 +48,8 @@ List of proposed Hackathon challenges
 6. [Project 6 (easy) -- Browser Extension
 ](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-6-easy----browser-extension)
 
+***
+
 ### INSPIRE Group
 
 [Selection of similar Vantage Points](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/INSPIRE)
