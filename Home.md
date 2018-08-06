@@ -47,3 +47,6 @@ List of proposed Hackathon challenges
 ](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-5-medium----extend-the-m-lab-viz-platform)
 6. [Project 6 (easy) -- Browser Extension
 ](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MeasurementLab#project-6-easy----browser-extension)
+
+### INSPIRE Group
+
