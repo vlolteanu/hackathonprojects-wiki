@@ -53,3 +53,9 @@ List of proposed Hackathon challenges
 ### INSPIRE Group
 
 [Selection of similar Vantage Points](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/INSPIRE)
+
+***
+
+### UC Louvain
+
+[IPv6 Segment Routing]()
