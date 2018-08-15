@@ -58,4 +58,4 @@ List of proposed Hackathon challenges
 
 ### UC Louvain
 
-[IPv6 Segment Routing]()
+[IPv6 Segment Routing](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/UC-Louvain)
