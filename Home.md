@@ -30,15 +30,13 @@ List of proposed Hackathon challenges
 
 ### MobileInsight
 
-### MobileInsight
-
 
 1. [Project 1 (easy): Collect L1/L2 cellular network information](https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MobileInsight#project-1-easy-collect-l1l2-cellular-network-information)
 
 2. [Project 2 (easy): Visualize L1/L2 analytics] (https://https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MobileInsight#project-2-easy-visualize-l1l2-analytics) 
 
 
-3. [Project 3 (advanced):  Extract L1/L2 network latency] (https://https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MobileInsight#project-3-advance-extract-l1l2-network-latency)
+3. [Project 3 (advanced): Extract L1/L2 network latency](https://https://github.com/acmsigcomm18hackathon/hackathonprojects/wiki/MobileInsight#project-3-advance-extract-l1l2-network-latency)
 
 
 ***
