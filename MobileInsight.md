@@ -26,11 +26,14 @@ Participants are encouraged to have the following skills or experience
 
 Our Hackathon challenge is to understand latency over LTE. It consists of three progressive projects which can be chosen by every participant based on their interests.
 
-**Project 1 (easy)**: Collect L1/L2 information from MI and extract PHY-layer information (bandwidth, radio resource blocks, modulation, etc.) and MAC-layer information (retransmission, sequence etc.) and other options of your interests
+#### **Project 1 (easy)**: Collect L1/L2 cellular network information
+This will use MI to extract PHY-layer information (bandwidth, radio resource blocks, modulation, etc.) and MAC-layer information (retransmission, sequence etc.) and other options of your interests. 
 
-**Project 2 (medium)**: Visualize the L1/L2 analytics in project 1 on the desktop. Monitor their changes over time and under special events (e.g., handoff); Display basic statistics (percentiles over sliding windows) and perform anomaly detection.
+#### **Project 2 (easy)**: Visualize L1/L2 analytics 
+We will display L1/L2 information collected in project 1 on the desktop. This will monitor their changes over time and under special events (e.g., handoff) and plot basic statistics (percentiles over sliding windows) and perform anomaly detection (optional).
 
-**Project 3 (advanced)**:  Extract the L1/L2 network latency out of above information. Compare with higher-layer latency analysis using tcpdump (RTT in TCP) and build a full-stack latency analyzer (optional).
+#### **Project 3 (advanced)**:  Extract the L1/L2 network latency
+We will analyze network latency out of above L1/L2 information. We will compare it with higher-layer latency analysis using tcpdump (RTT in TCP) and build a full-stack latency analyzer (optional).
 
 -------
 
@@ -47,4 +50,4 @@ _Note 3_: You are encouraged to run MI before you come to Hackathon. Please read
 
 ### Contact us:
 
-Prof. Peng will participate and supervise all the participants at the Hackathon event. If anyone has technical questions in advance, please directly contact her (chunyi@purdue.edu) and the MI support team (support@mobileinsight.net)
+Prof. Peng will participate and supervise all the participants who are interested in MobileInsight at the Hackathon event. If anyone has technical questions in advance, please directly contact her (chunyi@purdue.edu) and the MI support team (support@mobileinsight.net)
