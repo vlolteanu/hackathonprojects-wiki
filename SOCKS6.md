@@ -64,7 +64,7 @@ Note: Running a kernel with MPTCP support is definitely a plus, but it's not req
 
 ## Resources
 
-* [SOCKSv6 IETF Draft](https://tools.ietf.org/html/draft-olteanu-intarea-socks-6-03)
+* [SOCKSv6 IETF Draft](https://tools.ietf.org/html/draft-olteanu-intarea-socks-6-04)
 * [SIGCOMM poster](http://nets.cs.pub.ro/~vlad/socks6/socks6posterpubredux.pdf) [abstract](http://nets.cs.pub.ro/~vlad/socks6/p126-Olteanu.pdf)
 * Repos [https://github.com/45G](https://github.com/45G)
 	* [libsocks6msg](https://github.com/45G/libsocks6msg)
